@@ -237,7 +237,7 @@ var experiment = {
     //Play the sound for the left word then the sound for the right word
   
     var MySound1 = $('#sound_left')[0];
-    MySound1.setAttribute('src', '/sounds/'+current_sound_l);
+    MySound1.setAttribute('src', 'sounds/'+current_sound_l);
     MySound1.play();
       
     $('#sound_left').on('ended', function() {
@@ -247,7 +247,7 @@ var experiment = {
     setTimeout(function(){
                          
     var MySound2 = $('#sound_right')[0];
-    MySound2.setAttribute('src', '/sounds/'+current_sound_r);
+    MySound2.setAttribute('src', 'sounds/'+current_sound_r);
     MySound2.play();
                           
     }, 500);   
