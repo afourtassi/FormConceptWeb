@@ -2,7 +2,7 @@
     "title":               "Word Learning Experiment",
     "description":         "A survey about perceptions of children's development. DO ONLY ONE WORD LEARNING EXPERIMENT HIT. IF YOU DO MULTIPLE HITS OF THIS TYPE, YOU WILL NOT BE PAID! ",
     "keywords":            "word learning, language",
-    "url":                 "https://afourtassi.github.io/FormConceptWeb/experiment1.html",
+    "url":                 "afourtassi.github.io/FormConceptWeb/experiment_sound.html",
     "frame_height":         450,
     "assignment_duration":  "3 minutes",
     "auto_approval_delay":  "5 minutes",
@@ -11,6 +11,6 @@
     "server_log_path":      "https://langcog.stanford.edu/cgi-bin/cosub/log_submission.php",
     "qualifications": {
         "location": "US",
-        "approval_percentage": 85
+        "approval_percentage":85 
     }
 }
